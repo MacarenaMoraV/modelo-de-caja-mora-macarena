@@ -1,0 +1,61 @@
+.container {
+    width: 950px;
+    background-color: #eaeaea;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Rectángulo superior amarillo */
+
+.top-nav {
+
+    height: 150px;
+    background-color: #ffcc00;
+    margin-bottom: 10px;
+}
+
+/* Rectángulo celeste costado derecho*/
+
+.side-nav {
+    height: 370px;
+    width: 225px;
+    background-color: #66ccff;
+    float: right;
+    margin: 10px 5px 0px 0px;
+}
+
+/* Contenedor */
+
+.main-content {
+    overflow: hidden;
+}
+
+/* Rectangulo rosado */
+
+.main {
+    height: 400px;
+    width: 700px;
+    background-color: deeppink;
+    float: left;
+    padding: 10px 0 0 10px;
+    box-sizing: border-box;
+}
+
+/* Cuadros azules */
+
+.sub-content {
+    height: 180px;
+    width: 210px;
+    background-color: mediumblue;
+    display: inline-block;
+    margin: 1px 15px 10px  0px;
+}
+
+/* Cuadro verde del final*/
+
+#advertisement {
+    height: 120px;
+    width: 660px;
+    background-color: #33cc33;
+    margin: 10px 0 0 2px;
+}
